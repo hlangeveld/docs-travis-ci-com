@@ -15,10 +15,10 @@ using `sudo` within a build stage in `.travis.yml`.
 This backend has following characteristics:
 
 1. Allows use of `sudo` (e.g., for installing `apt` packages)
-2. For private repositories, allows use of [caches](/user/caching)
+2. For private repositories, allows use of [caches](/user/caching.md)
 
 For technical reasons, booting the VM takes a little longer
-than [the container-based ones](/user/workers/container-based-infrastructure).
+than [the container-based ones](/user/workers/container-based-infrastructure.md).
 
 ## File System
 
